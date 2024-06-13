@@ -1,0 +1,1 @@
+Prototype과 __proto__

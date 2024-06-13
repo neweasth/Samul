@@ -1,0 +1,1 @@
+Object.prototype에 추가된 메서드에서의 접근

@@ -1,0 +1,1 @@
+constructor 프로퍼티
