@@ -1,0 +1,1 @@
+Rectangle을 상속하는 Square 클래스
