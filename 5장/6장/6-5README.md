@@ -1,0 +1,1 @@
+다양한 constructor 접근 방법
